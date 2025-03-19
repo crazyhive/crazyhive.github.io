@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Host: crazyhive.de
+Disallow: http://*.crazyhive.de/
+Disallow: https://*.crazyhive.de/
+
+Sitemap: https://crazyhive.de/sitemap.xml
